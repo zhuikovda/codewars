@@ -1,5 +1,3 @@
-"use strict";
-
 String.prototype.toAlternatingCase = function () {
     if (this.toUpperCase()) {
         console.log(this.toLowerCase());
@@ -7,6 +5,6 @@ String.prototype.toAlternatingCase = function () {
         console.log(this.toUpperCase());
     }
     // Define your method here :)
-  }
+  };
 
  'dima'.toAlternatingCase();
