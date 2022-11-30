@@ -9,4 +9,4 @@ function persistence(num) {
     console.log(res)
  }
 
- persistence(999);
+ persistence(39);
