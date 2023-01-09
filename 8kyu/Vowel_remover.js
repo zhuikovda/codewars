@@ -1,6 +1,8 @@
-const shortcut = (string) => {
-   
-    console.log(string.replace(/[aeiou]/g, ''));
-};
+const shortcut = string => {
+    console.log(string.replace(/[aeiou]/g, ""))
+}
 
-shortcut("codewars");
+const hfjn = () => {
+}
+
+shortcut("codewars")
