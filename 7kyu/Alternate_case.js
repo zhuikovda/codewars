@@ -5,6 +5,7 @@ const alternateCase = (s) => {
   //     t === t.toUpperCase() ? t.toLowerCase() : t.toUpperCase()
   //   );
   //   console.log(convert.join(""));
+  console.log(typeof s);
   console.log(
     s
       .split("")
